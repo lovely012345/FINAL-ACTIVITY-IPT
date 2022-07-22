@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<style> 
+body {
+  background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJFP25203yKPz5mAYGulkW28DWIrtN9kFQNg&usqp=CAU");
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+p {position: fixed;
+  padding: 10px;
+  border: 2px solid lightblue;
+  background-color:white;
+  font-size:20px;
+  color:lightblue;
+  opacity: 0.8;
+ }
+i {position: fixed;
+  bottom: 0;
+  top: 300px;
+  right: 300px;
+  padding: 10px;
+  border: 2px solid lightblue;
+  background-color:white;
+  font-size:20px;
+  color:lightblue;
+  opacity: 0.8;
+ }
+h1 {
+      border: 2px solid orange;
+      padding: 10px;
+      background-color:white;
+      color: blue; 
+      font-family: Fantasy;
+      font-size: 100%;
+      width: 100%;
+      text-align: center;
+      opacity: 0.8;
+      }
+h2 {
+      background-color:LightGray;
+      color: blue; 
+      font-family: serif;
+      font-size: 100%;
+      width: 100%;
+      text-align: center;
+      opacity: 0.8;
+      }
+figure {
+      float: right;
+      width: 30%;
+      text-align: center;
+      font-style: italic;
+      font-size: smaller;
+      text-indent: 0;
+      border: thin silver solid;
+      margin: 0.5em;
+      padding: 0.5em;
+      background-color:white;
+      opacity:0.8;
+      }
+img {
+     border:2px solid black;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+     float:center;
+     display: inline;
+     }
+div {
+  background-color: gray;
+  animation-name: example;
+  animation-duration: 5s;
+  position: left;
+  left: 85px;
+  border: 2px solid lightblue;
+  opacity: 0.8;
+}
+
+@keyframes example {
+  0%   {background-color: lightyellow;}
+  25%  {background-color: lightgreen;}
+  50%  {background-color: lightblue;}
+  opacity: 0.8;
+}
+<br></br>
+</style>
+</head>
+<body>
+
+<h1 >MY FIFTH ACTIVITY</h1>
+<br></br>
+<h1 >FAMILY INFORMATION</h1>
+<h2 >"Family is more than anything else"</h2>
+
+<figure>
+<a href="Mommies_Info.html" target="_blank">
+
+  <img src="https://scontent.fcrk4-1.fna.fbcdn.net/v/t1.6435-9/118327744_2694696370745371_5503251741556507571_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=105&ccb=1-5&_nc_sid=7aed08&efg=eyJpIjoidCJ9&_nc_eui2=AeE6pAaBQ_Mgq0_5kLaBwswD6Sh8OL7q_ILpKHw4vur8gj3sHtxqZWOWV95AXLgBJOaiZif03tC-eP-OWrx2o63D&_nc_ohc=6LxCwgqqNYQAX_l4M0-&_nc_ht=scontent.fcrk4-1.fna&oh=00_AT9kV-s36Qwg-xiMrwBsViRzmJAf8rxFZFO6EXdtCcl5Mg&oe=6293E27F"  width="100" height="100" >
+<figcaption> I am mother of two my two son's Chris Cairo and Chris Cairus they are the reasons why i pursue my dreams.</figcaption>
+  </figure>
+<figure>
+<a href="KUYA'S_INFORMATION.html" target="_blank">
+
+   <img src="https://z-m-scontent.fcrk3-1.fna.fbcdn.net/v/t39.30808-6/241713635_362979088839803_7106704717160831923_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=110&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoibyJ9&_nc_eui2=AeGptwZw3ieGONwZQwGUK0cesCqQPywYtiSwKpA_LBi2JNKk74BMGlz8P53H4kNeeGrhtfPxgbv1skXkUFZMtwVM&_nc_ohc=MizsAfb62FEAX_Tauaf&_nc_ad=z-m&_nc_cid=1119&_nc_eh=6e313e92bf3e09471d7adc92797d7c9c&_nc_zt=23&_nc_rml=0&_nc_ht=z-m-scontent.fcrk3-1.fna&oh=00_AT9_HrH1nf89hQOTE3FOy_ht2LFIk8wO3mzctcUCP8VnMg&oe=628C7B72"  width="100" height="100">
+<figcaption>He is my older son Cairo, he is so adorable and brilliant, he is 2 years old. Cairo meaning is victorious and chris came from the name of his father since i got pregnant in pandemic i decide to make his name Chris Cairo my Beautiful Victorious.
+</figcaption>
+</figure>
+<figure> 
+<a href="BUNSO_INFO.html" target="_blank">
+   <img src="https://scontent.fcrk3-2.fna.fbcdn.net/v/t39.30808-6/283037771_1335359340308749_8618634144044194886_n.jpg?stp=cp0_dst-jpg_e15_fr_q65&_nc_cat=104&ccb=1-7&_nc_sid=110474&efg=eyJpIjoidCJ9&_nc_eui2=AeFkNw1nG9aIpRGV1Dqk9DX39k5_le9yY9_2Tn-V73Jj30hhkEe6PF49o3i0q8PXC7PoH67UAZafTjNwYCEYqSj_&_nc_ohc=FG50PlQOYQQAX-Nrx8b&_nc_zt=23&_nc_ht=scontent.fcrk3-2.fna&oh=00_AT9MW21-Ot1KFoVJQqIJXrqmXbfvNtAkHrinqwUm7bGMYQ&oe=628D67A3"  width="100" height="100">
+<figcaption>He is my bunso my Cairus. he is only 4 months old and i follow his name from his kuya and i get his name from son of god who always win in the battle Cairus. 
+ </figcaption></figure>
+<figure>
+<a href="Daddies_Information.html" target="_blank">
+    <img src="https://z-m-scontent.fcrk3-1.fna.fbcdn.net/v/t39.30808-6/274476574_1277484882762862_8182832876770978406_n.jpg?stp=cp0_dst-jpg_e15_p720x720_q65&_nc_cat=108&ccb=1-7&_nc_sid=85a577&efg=eyJpIjoibyJ9&_nc_eui2=AeFi070wqScah7ZrOkvYdnsmN7Ti8Y-MuVw3tOLxj4y5XHoDRzaAisHqFEWOwFEch2VMPuFsrRyqMVb2CIxFMGr0&_nc_ohc=4btkD0YVLyUAX8GMG7k&_nc_ad=z-m&_nc_cid=1119&_nc_eh=6e313e92bf3e09471d7adc92797d7c9c&_nc_zt=23&_nc_rml=0&_nc_ht=z-m-scontent.fcrk3-1.fna&oh=00_AT_fh3uiTZhQF4JrXvC9XrGxYO1RTE_0lcxxJ3Sm3qeeKw&oe=628B987B"  width="100" height="100">
+    <figcaption> He is the my husband, the father of my children my knight and shining armor. </figcaption>
+</figure>
+
+<br></br>
+<br></br>
+<br></b

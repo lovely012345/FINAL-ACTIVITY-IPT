@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+body {
+  background-image: url("https://mymodernmet.com/wp/wp-content/uploads/2021/04/Nature-Sounds-For-Well-Being-01.jpg");
+  background-repeat:no-repeat;
+  background-size: cover;
+  background-position: center;
+  opacity: 0.8;
+  }
+i {position: fixed;
+  bottom: 0;
+  top: 300px;
+  right: 300px;
+  padding: 10px;
+  border: 2px solid lightblue;
+  background-color:white;
+  font-size:40px;
+  color:lightblue;
+  opacity: 0.8;
+ }
+h1 {
+      border: 3px solid lightblue;
+      padding: 10px;
+      background-color:white;
+      color: lightblue; 
+      font-family: Fantasy;
+      font-size: 100%;
+      width: 100%;
+      text-align: center;
+      opacity: 0.8;
+      }
+      
+div {
+  background-color: gray;
+  animation-name: example;
+  animation-duration: 5s;
+  position: left;
+  left: 85px;
+  border: 2px solid lightblue;
+  opacity: 0.8;
+}
+
+@keyframes example {
+  0%   {background-color: lightyellow;}
+  25%  {background-color: lightgreen;}
+  50%  {background-color: lightblue;}
+  opacity: 0.8;
+}
+</style>
+</head>
+<body>
+<h1>MENU</h1>
+
+<a href="MY-THIRD-ACTIVITY.html" target="_blank">
+<i class="glyphicon glyphicon-heart-empty"></i></a>
+<div><b>Favorites:</b> This contains applications that i mostly used for fun and search engines where i search things that help me and some search engines that i used is surely help not only me but also the community that im in.</div>
+
+<br></br>
+<a href="userinfo.html" target="_blank">
+<i  class="glyphicon glyphicon-user"></i></a>
+<div><b>USER INFORMATION:</b> This contains some information about me, where i also can fill up.</div>
+
+<br></br>
+<a href="family.html" target="_blank">
+<i  class="glyphicon glyphicon-picture"></i></a>
+<div><b>FAMILY INFORMATION:</b> This contains some information about my family.</div>
+
+</body>
+</html>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">

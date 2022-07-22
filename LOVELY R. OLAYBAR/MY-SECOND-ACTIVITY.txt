@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<HTML lang="en">
+<head>
+<center>
+<h1 style="color:#663399;" style="font:italic small-caps bold 18px/24px ;width:200px;"> My Second Activity</h1>
+</head>
+</center>
+<style>
+
+body
+{
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0O5zcH_gkMTt4OnKGkCZNdpFXdZTDIq48gA&usqp=CAU");
+}
+h1 {
+      border: 2px solid pink;
+      padding: 10px;
+      background-color:white;
+      color: pink; 
+      font-family: Fantasy;
+      font-size: 100%;
+      width: 100%;
+      text-align: center;
+      }
+p {
+      border: 2px solid #FF1493;
+      padding: 10px;
+      background-color:white;
+      color: pink; 
+      font-family: Fantasy;
+      font-size: 12;
+      width: 100%;
+      text-align: center;
+      }
+
+div{
+    border: 2px solid pink;
+    background-color: lightGray;
+    font-size: 15px;
+    font-family:fantasy;
+    color: solid black;
+    margin-top: 10px;
+    opacity: 0.8;
+}
+</style>
+<center>
+<form>
+<tr>
+<h1 style="color:blue;" style="font:italic small-caps bold 18px/24px ;width:200px;">SKYPE</h1>
+<p style="color:#40E0D0;">Ang skype ay ginagamit noon bilang pang commucate sa mahal natin sa buhay na mula sa malayo sa maaring magchat o makipag video call dito.</p>
+
+<h1 style="color:green;" style="font:italic small-caps bold 18px/24px ;width:200px;">BILI-BILI</h1>
+<h3 style="color:#FFF8DC;">Sa bili-bili maaring manood ng mga movie ng libre at walang sawa, mainam ito sa mga katulad kong mahilig mag movie marathon kasama ang pamilya. </p>
+</th>
+</tr><br>
+<tr>
+<h1 style="color:red;" style="font:italic small-caps bold 18px/24px ;width:200px;">GOOGLE CLASSROOM</h1>
+<h3 style="color:#F4A460;"> ang gooogle classroom ay ginagamit ng karamihan upang kahit na hindi maaring makapasok sa paaralan dahil sa pandemya ang mga studyante at guro ay makapaglagay at makapagpasa ng mga activities,quizzes at projects. </p>
+</th>
+</tr><br>
+<tr>
+<h1 style="color:brown;" style="font:italic small-caps bold 18px/24px ;width:200px;">MICROSOFT EDGE</h1>
+<h3 style="color:#A52A2A;">Ang microsoft Edge ang unang nakainstall o nakalagay sa mga laptop na wala pang mga mozilla at chrome halos magkakapareha lamang itong tatlo. </p>
+</th>
+</tr><br>
+<tr>
+<h1 style="coor:orange;" style="font:italic small-caps bold 18px/24px ;width:200px;">GOOGLE MEET</h1>
+<p style="color:#0000CD;">Ang Google Meet ang isang kadalasang ginagamit upang makapagkita kita o makapag meeting o magsagawa ng pagtuturo ng malayuan ang mga estudyan, guro at iba pang tao.</p>
+
+
+
+<form>
+<table style="background-color:#D8BFD8;" style="border: 1px solid black; width: 50%; margin-left: auto;
+            margin-right: auto; margin-top: 2rem;" >
+                <tr>
+                <th rowspan="6" style="border: 1px solid black; color: #051367; font-size: 25px;">Search</th>
+                  <th colspan="2" style="border: 1px solid black; color: #051367; font-size: 25px;">Browser</th>
+                  <th style="border: 1px solid black; color: #051367; font-size: 25px;">Website</th>
+                  <th style="border: 1px solid black; color: #051367; font-size: 25px;">Links</th>
+                </tr>
+                <tr>
+                    <td style="border: 1px solid black; color: #FF1493;  font-size: 20px;">CHROME</td>
+                    <td style="border: 1px solid black; color: #FF69B4;  font-size: 20px;">FIREFOX</td>
+                    <td style="border: 1px solid black; color: #C71585; font-size: 20px;">SKYPE</td>
+                    <td style="border: 1px solid black; font-size: 20px;"><a href="https://www.skype.com/en/" target="_blank">https://www.skype.com/en/</a></td>
+                  </tr>
+		
+		    <td style="border: 1px solid black; color: #FF1493;  font-size: 20px;">CHROME</td>
+                    <td style="border: 1px solid black; color: #FF69B4;  font-size: 20px;">FIREFOX</td>
+                    <td style="border: 1px solid black; color: #C71585; font-size: 20px;">BILI-BILI</td>
+                    <td style="border: 1px solid black; font-size: 20px;"><a href="https://www.bilibilicomics.com/" target="_blank">https://www.bilibilicomics.com//</a></td>
+                  </tr>
+
+		    <td style="border: 1px solid black; color: #FF1493;  font-size: 20px;">CHROME</td>
+                    <td style="border: 1px solid black; color: #FF69B4; font-size: 20px;">FIREFOX</td>
+                    <td style="border: 1px solid black; color: #C71585; font-size: 20px;">GOOGLE CLASSROOM</td>
+                    <td style="border: 1px solid black; font-size: 20px;"><a href="https://classroom.google.com/u/0/h" target="_blank">https://classroom.google.com/u/0/h</a></td>
+                  </tr>
+
+		    <td style="border: 1px solid black; color: #FF1493; font-size: 20px;">CHROME</td>
+                    <td style="border: 1px solid black; color: #FF69B4; font-size: 20px;">FIREFOX</td>
+                    <td style="border: 1px solid black; color: #C71585; font-size: 20px;">MICROSOFT EDGE</td>
+                    <td style="border: 1px solid black; font-size: 20px;"><a href="https://www.microsoft.com/en-us/edge" target="_blank">https://www.microsoft.com/en-us/edge</a></td>
+                  </tr>
+
+		    <td style="border: 1px solid black; color: #FF1493;  font-size: 20px;">CHROME</td>
+                    <td style="border: 1px solid black; color: #FF69B4; font-size: 20px;">FIREFOX</td>
+                    <td style="border: 1px solid black; color: #C71585; font-size: 20px;">GOOGLE MEET</td>
+                    <td style="border: 1px solid black; font-size: 20px;"><a href="https://meet.google.com/?pli=1" target="_blank">https://meet.google.com/?pli=1</a></td>
+                  </tr>
+    </table>
+
+
+
+
+</form>
